@@ -78,9 +78,9 @@ BRUSHED.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											{image : 'include/img/slider-images/image01.jpg', title : '<div class="slide-content"><h1>Supper Moment</h1></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image02.jpg', title : '<div class="slide-content"><h1>Supper Moment</h1></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content"><h1>Supper Moment</h1></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image04.jpg', title : '<div class="slide-content"><h1>Supper Moment</h1></div>', thumb : '', url : ''}  
+											{image : 'include/img/slider-images/image02.jpg', title : '<div class="slide-content"><h1>Indie Band</h1></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content"><h1>For Dream</h1></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image04.jpg', title : '<div class="slide-content"><h1>Come True</h1></div>', thumb : '', url : ''}  
 									],
 									
 		// Theme Options			   
