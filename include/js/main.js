@@ -77,10 +77,15 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : 'include/img/slider-images/image01.jpg', title : '<div class="slide-content"><h1>Supper Moment</h1></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image02.jpg', title : '<div class="slide-content"><h1>Indie Band</h1></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content"><h1>For Dream</h1></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image04.jpg', title : '<div class="slide-content"><h1>Come True</h1></div>', thumb : '', url : ''}  
+											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content"><h1>Supper Moment</h1></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image10.jpg', title : '<div class="slide-content"><h1>香港獨立樂隊</h1></div>', thumb : '', url : ''},
+                                            {image : 'include/img/slider-images/image05.jpg', title : '<div class="slide-content"><h1>精神領袖 Gary Chan</h1></div>', thumb : '', url : ''}, 
+											{image : 'include/img/slider-images/image11.jpg', title : '<div class="slide-content"><h1>溫柔革命香港站2016</h1></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image06.jpg', title : '<div class="slide-content"><h1>溫柔革命澳門站2017</h1></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image08.jpg', title : '<div class="slide-content"><h1>世界變了樣屋企站2014</h1></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image07.jpg', title : '<div class="slide-content"><h1>世界變了樣屋企站2013</h1></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image09.jpg', title : '<div class="slide-content"><h1>再次心跳演唱會2011</h1></div>', thumb : '', url : ''}
+											
 									],
 									
 		// Theme Options			   
